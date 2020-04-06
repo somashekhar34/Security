@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Security</string>
+    <string-array name="options">
+        <item>Hashing</item>
+        <item> Asymmetric Encryption </item>
+        <item>Symmetric Encryption</item>
+        <item>Encoding and Decoding</item>
+    </string-array>
+</resources>
